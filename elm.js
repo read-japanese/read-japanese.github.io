@@ -8829,12 +8829,12 @@ var _user$project$Main$mockSavedWords = {
 var _user$project$Main$Profile = {ctor: 'Profile'};
 var _user$project$Main$Saved = {ctor: 'Saved'};
 var _user$project$Main$Study = {ctor: 'Study'};
+var _user$project$Main$Read = {ctor: 'Read'};
 var _user$project$Main$init = {
 	ctor: '_Tuple2',
-	_0: A6(_user$project$Main$Model, _user$project$Main$mockText, 0, _user$project$Main$mockDict, _user$project$Main$mockSavedWords, false, _user$project$Main$Study),
+	_0: A6(_user$project$Main$Model, _user$project$Main$mockText, 0, _user$project$Main$mockDict, _user$project$Main$mockSavedWords, false, _user$project$Main$Read),
 	_1: _elm_lang$core$Platform_Cmd$none
 };
-var _user$project$Main$Read = {ctor: 'Read'};
 var _user$project$Main$StudyRep = function (a) {
 	return {ctor: 'StudyRep', _0: a};
 };
